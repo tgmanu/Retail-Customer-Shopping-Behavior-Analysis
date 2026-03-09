@@ -20,7 +20,6 @@ customer engagement, and optimize marketing and product strategies?”
 - Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis.
 - Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 - Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
-- Report: Write a clear project report summarizing your key findings and business recommendations.
 
 ---
 
@@ -29,4 +28,21 @@ customer engagement, and optimize marketing and product strategies?”
 - SQL Server
 - Python
 - PowerBI
-- Word
+
+---
+
+## Skills Gained
+
+- Data Cleaning & Preprocessing (Python)
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Pipeline Integration
+- SQL Data Analysis (SQL Server)
+- Data Visualization & Dashboarding
+- Business Insight Generation
+
+---
+
+## 👨‍💻 Author
+TG Manu  
+Aspiring Data Analyst | Learning SQL, Python & Data Analytics
